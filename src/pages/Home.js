@@ -5,7 +5,7 @@ import HeroHome from '../partials/HeroHome';
 import FeaturesHome from '../partials/Features';
 import FeaturesBlocks from '../partials/FeaturesBlocks';
 import Testimonials from '../partials/Testimonials';
-import Newsletter from '../partials/Newsletter';
+import CTA from '../partials/CTA';
 import Footer from '../partials/Footer';
 
 function Home() {
@@ -23,7 +23,7 @@ function Home() {
         <FeaturesHome />
         <FeaturesBlocks />
         <Testimonials />
-        <Newsletter />
+        <CTA />
 
       </main>
 
