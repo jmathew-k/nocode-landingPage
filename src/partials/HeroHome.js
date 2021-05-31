@@ -25,7 +25,7 @@ function HeroHome() {
 
               </div>
               <div className="pt-2 pl-14">
-                <img className="justify-items-center" src={require('../images/Frame_1.png').default} width="700" alt="sphere" />
+                <img className="justify-items-center" src={require('../images/sphere_gradient.png').default} width="700" alt="sphere" />
                 </div>
             </div>
 
