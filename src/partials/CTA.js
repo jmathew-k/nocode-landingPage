@@ -5,7 +5,7 @@ function CTA() {
     <section>
 
     {/* CTA box */}
-    < div className=" bg-white text-center py-16 px-6 shadow-md">
+    < div className=" bg-white text-center py-16 px-6">
 
         {/* CTA content */}
         {/* <div className="text-center py-40"> */}
