@@ -5,8 +5,6 @@ function Footer() {
   return (
 		<footer>
 			<div className='max-w-6xl mx-auto px-4 sm:px-6'>
-
-
 				{/* Bottom area */}
 				<div className='md:flex md:items-center md:justify-between py-4 md:py-8 border-t border-gray-200'>
 					<div className='sm:col-span-12 lg:col-span-3'>
@@ -25,7 +23,7 @@ function Footer() {
 								</svg>
 							</Link>
 						</div>
-						<div className='text-sm text-gray-600'>
+						<div className='text-sm py-1 text-gray-600'>
 							<Link
 								to='#'
 								className='text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out'
