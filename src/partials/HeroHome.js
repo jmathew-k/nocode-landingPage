@@ -22,16 +22,15 @@ function HeroHome() {
                 <div>
                   <a className="btn text-white bg-teal-911 hover:bg-teal-400 w-full mb-4 sm:w-auto sm:mb-0" href="/demo">Book a Demo</a>
                 </div>
-
               </div>
-              <div className="pt-2 pl-12">
-                <img className="justify-items-center" src={require('../images/sphere_gradient.png').default} width="700" alt="sphere" />
+              <div className="relative flex justify-center mb-8">
+                <div className="flex flex-col justify-center">
+                  <img className="justify-items-center" src={require('../images/sphere_gradient.png').default} width="768" alt="sphere" />
                 </div>
+              </div>
             </div>
-
-
           </div>
-          </div>
+        </div>
 
 
         </div>
