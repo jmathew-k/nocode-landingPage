@@ -22,7 +22,7 @@ function CtaAlternative() {
 							{/* CTA button */}
 							<div>
 								<Link
-									to='/signup'
+									to='/demo'
 									className='btn text-black text-sm bg-white hover:bg-gray-100'
 								>
 									Book a demo
