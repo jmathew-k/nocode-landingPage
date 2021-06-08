@@ -1,8 +1,8 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Footer() {
-  return (
+	return (
 		<footer>
 			<div className='max-w-6xl mx-auto px-4 sm:px-6'>
 				{/* Bottom area */}
@@ -22,9 +22,8 @@ function Footer() {
 									<path d='M221.8 227.2l-33.5 40.3 35.3.5c31.6.4 35.5.7 37 2.2 1.7 1.6 1.6 3.2-1.5 27.9-1.8 14.3-3 26.3-2.8 26.5.3.3 15.6-17.6 34-39.8l33.6-40.3-35.4-.5c-31.7-.4-35.6-.7-37.1-2.2-1.7-1.6-1.6-3.2 1.5-27.9 1.8-14.3 3.1-26.3 2.8-26.5-.2-.2-15.5 17.7-33.9 39.8z' />
 								</svg>
 							</Link>
-							
 						</div>
-						<div className='text-sm py-1 text-gray-600'>
+						<div className='text-xs py-1 text-gray-600'>
 							<Link
 								to='#'
 								className='text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out'
@@ -38,22 +37,19 @@ function Footer() {
 							>
 								Privacy Policy
 							</Link>
-
-												{/* Copyrights note */}
-					<div className='text-sm text-gray-600 mr-4 mt-1'>
-						Copyright © 2021{' '}
-						<a
-							className='text-blue-600 hover:underline'
-							href='https://tesseractiq.com/'
-						>
-							Tesseract
-						</a>
-						. All rights reserved.
-					</div>
+							{/* Copyrights note */}
+							<div className='text-xs text-gray-600 mr-4 my-1'>
+								Copyright © 2021{' '}
+								<a
+									className='text-blue-600 hover:underline'
+									href='https://tesseractiq.com/'
+								>
+									Tesseract
+								</a>
+								. All rights reserved.
+							</div>
 						</div>
-						
 					</div>
-					
 
 					{/* Social links */}
 					<ul className='flex mb-4 md:order-1 md:ml-4 md:mb-0'>
@@ -103,12 +99,10 @@ function Footer() {
 							</Link>
 						</li>
 					</ul>
-
-
 				</div>
 			</div>
 		</footer>
 	)
 }
 
-export default Footer;
+export default Footer
