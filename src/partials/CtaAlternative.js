@@ -14,16 +14,16 @@ function CtaAlternative() {
 						<div className='flex flex-col lg:flex-row justify-between items-center'>
 							{/* CTA content */}
 							<div className='mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2'>
-								<h3 className='h3 text-white'>
+								<h2 className='h4 text-white'>
 									Ready to build with Tesseract?
-								</h3>
+								</h2>
 							</div>
 
 							{/* CTA button */}
 							<div>
 								<Link
 									to='/signup'
-									className='btn text-black bg-white hover:bg-gray-100'
+									className='btn text-black text-sm bg-white hover:bg-gray-100'
 								>
 									Book a demo
 								</Link>

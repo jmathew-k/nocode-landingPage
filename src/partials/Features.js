@@ -27,14 +27,14 @@ function Features() {
 			></div>
 			<div className='absolute left-0 right-0 m-auto w-px p-px h-20 bg-gray-200 transform -translate-y-1/2'></div>
 
-			<div className='relative max-w-6xl mx-auto px-4 sm:px-6'>
+			<div className='relative max-w-6xl mx-auto px-4 sm:px-6 py-2'>
 				<div className='pt-12 md:pt-20'>
 					{/* Section header */}
 					<div className='max-w-3xl mx-auto text-center pb-12 md:pb-16'>
-						<h1 className='h2 mb-4'>How Tesseract Works</h1>
-						<p className='text-xl text-gray-600'>
-							The no-code automation platform. Easily build digital solutions to
-							automate complex business processes, without coding
+						<h1 className='h3 mb-4'>Tesseract no-code automation platform</h1>
+						<p className='text-lg text-gray-600'>
+							Easily build digital solutions to automate complex business
+							processes, without coding
 						</p>
 					</div>
 
@@ -45,9 +45,9 @@ function Features() {
 							className='max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6'
 							data-aos='fade-right'
 						>
-							<div className='md:pr-4 lg:pr-12 xl:pr-16 mb-8'>
-								<h3 className='h3 mb-3'>Turn ideas into apps in hours</h3>
-								<p className='text-xl text-gray-600'>
+							<div className='md:pr-4 lg:pr-12 xl:pr-16 mb-8 pt-2'>
+								<h3 className='h4 mb-3'>Turn ideas into apps in hours</h3>
+								<p className='text-base text-gray-600'>
 									The complete toolbox to create applications that solve the
 									hardest problems without writing a line of code
 								</p>
@@ -67,10 +67,10 @@ function Features() {
 									}}
 								>
 									<div>
-										<div className='font-bold leading-snug tracking-tight mb-1'>
+										<div className='font-bold text-base leading-snug tracking-tight mb-1'>
 											Powerful decision engine
 										</div>
-										<div className='text-gray-600'>
+										<div className='text-gray-600 text-sm'>
 											Powerful business rule engine that can implement your
 											domain specific expert knowledge
 										</div>
@@ -98,10 +98,10 @@ function Features() {
 									}}
 								>
 									<div>
-										<div className='font-bold leading-snug tracking-tight mb-1'>
+										<div className='font-bold text-base leading-snug tracking-tight mb-1'>
 											Drag and drop interface designer
 										</div>
-										<div className='text-gray-600'>
+										<div className='text-gray-600 text-sm'>
 											Create customised user interfaces like dashboards, forms,
 											chatbots etc. to interact with users
 										</div>
@@ -132,10 +132,10 @@ function Features() {
 									}}
 								>
 									<div>
-										<div className='font-bold leading-snug tracking-tight mb-1'>
+										<div className='font-bold leading-snug tracking-tight mb-1 text-base'>
 											One click application deployment
 										</div>
-										<div className='text-gray-600'>
+										<div className='text-gray-600 text-sm'>
 											Deploy and share applications between teams, and discover
 											ready-made apps to common problems
 										</div>
