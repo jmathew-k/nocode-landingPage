@@ -110,10 +110,10 @@ function FeaturesWorld() {
 									{/* <ellipse id="world-ill-b" cx="51" cy="175.402" rx="24" ry="23.364" /> */}
 									<ellipse
 										id='world-ill-d'
-										cx='246'
-										cy='256.201'
-										rx='12'
-										ry='11.682'
+										cx='240'
+										cy='100'
+										rx='8'
+										ry='8'
 									/>
 									<linearGradient
 										x1='50%'
@@ -122,13 +122,13 @@ function FeaturesWorld() {
 										y2='100%'
 										id='world-ill-f'
 									>
-										<stop stopColor='#0070F4' stopOpacity='0' offset='0%' />
+										<stop stopColor='#41D5DF' stopOpacity='0' offset='0%' />
 										<stop
-											stopColor='#0070F4'
+											stopColor='#41D5DF'
 											stopOpacity='.64'
 											offset='52.449%'
 										/>
-										<stop stopColor='#0070F4' stopOpacity='0' offset='100%' />
+										<stop stopColor='#41D5DF' stopOpacity='0' offset='100%' />
 									</linearGradient>
 								</defs>
 								<g
@@ -141,24 +141,24 @@ function FeaturesWorld() {
 										filter='url(#world-ill-a)'
 										xlinkHref='#world-ill-b'
 									/>
-									<use fill='#0070F4' xlinkHref='#world-ill-b' />
+									<use fill='#41D5DF' xlinkHref='#world-ill-b' />
 									<use
 										fill='#000'
 										filter='url(#world-ill-c)'
 										xlinkHref='#world-ill-d'
 									/>
-									<use fill='#0070F4' xlinkHref='#world-ill-d' />
+									<use fill='#41D5DF' xlinkHref='#world-ill-d' />
 									<ellipse
 										fillOpacity='.32'
-										fill='#0070F4'
-										cx='293'
-										cy='142.303'
+										fill='#41D5DF'
+										cx='240'
+										cy='160'
 										rx='8'
 										ry='7.788'
 									/>
 									<ellipse
 										fillOpacity='.64'
-										fill='#0070F4'
+										fill='#41D5DF'
 										cx='250'
 										cy='187.083'
 										rx='6'
@@ -166,14 +166,14 @@ function FeaturesWorld() {
 									/>
 									<ellipse
 										fillOpacity='.64'
-										fill='#0070F4'
+										fill='#41D5DF'
 										cx='13'
 										cy='233.811'
 										rx='2'
 										ry='1.947'
 									/>
 									<ellipse
-										fill='#0070F4'
+										fill='#41D5DF'
 										cx='29'
 										cy='114.072'
 										rx='2'
@@ -203,7 +203,7 @@ function FeaturesWorld() {
 								style={{ width: '12%', top: '45%', left: '50%' }}
 								xmlns='http://www.w3.org/2000/svg'
 							>
-								<g className='fill-current text-blue-600'>
+								<g className='fill-current text-teal-911'>
 									<circle
 										className='pulse pulse-mini pulse-1'
 										cx='24'
@@ -227,7 +227,7 @@ function FeaturesWorld() {
 								style={{ width: '12%', top: '19%', left: '46%' }}
 								xmlns='http://www.w3.org/2000/svg'
 							>
-								<g className='fill-current text-blue-600'>
+								<g className='fill-current text-teal-911'>
 									<circle className='pulse pulse-mini' cx='24' cy='24' r='8' />
 									<circle
 										className='pulse pulse-mini pulse-2'
@@ -266,7 +266,7 @@ function FeaturesWorld() {
 								xmlns='http://www.w3.org/2000/svg'
 							>
 								<circle
-									className='fill-current text-blue-600'
+									className='fill-current text-teal-911'
 									cx='32'
 									cy='32'
 									r='32'
@@ -293,14 +293,14 @@ function FeaturesWorld() {
 								xmlns='http://www.w3.org/2000/svg'
 							>
 								<circle
-									className='fill-current text-gray-100'
+									className='fill-current text-teal-911'
 									fill='#FBFBFB'
 									cx='32'
 									cy='32'
 									r='32'
 								/>
 								<path
-									className='fill-current text-gray-700'
+									className='fill-current text-gray-100'
 									d='M37.11 32.44l-1.69 4.646-8.458-3.078.676-1.859-4.773 1.42 2.744 4.156.677-1.858 9.396 3.42a.994.994 0 001.278-.587l2.03-5.576-1.88-.684zM27.037 30.878l1.691-4.646 8.457 3.078-.676 1.858 4.773-1.42-2.744-4.155-.676 1.858-9.397-3.42a.994.994 0 00-1.278.587l-2.03 5.576 1.88.684z'
 								/>
 							</svg>
