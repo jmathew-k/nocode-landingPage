@@ -41,7 +41,7 @@ function Footer() {
 							<div className='text-xs text-gray-600 mr-4 my-1'>
 								Copyright © 2021{' '}
 								<a
-									className='text-blue-600 hover:underline'
+									className='text-gray-900 hover:underline'
 									href='https://tesseractiq.com/'
 								>
 									Tesseract

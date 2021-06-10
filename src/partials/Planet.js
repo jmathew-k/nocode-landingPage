@@ -108,13 +108,7 @@ function FeaturesWorld() {
 										<feGaussianBlur stdDeviation='2' in='SourceGraphic' />
 									</filter>
 									{/* <ellipse id="world-ill-b" cx="51" cy="175.402" rx="24" ry="23.364" /> */}
-									<ellipse
-										id='world-ill-d'
-										cx='240'
-										cy='100'
-										rx='8'
-										ry='8'
-									/>
+									<ellipse id='world-ill-d' cx='240' cy='100' rx='8' ry='8' />
 									<linearGradient
 										x1='50%'
 										y1='0%'
@@ -258,7 +252,7 @@ function FeaturesWorld() {
 									strokeWidth='2'
 								/>
 							</svg>
-							{/* Blue icon */}
+							{/* Teal icon */}
 							<svg
 								className='absolute max-w-full w-16 h-auto rounded-full shadow-xl'
 								viewBox='0 0 64 64'
@@ -293,14 +287,14 @@ function FeaturesWorld() {
 								xmlns='http://www.w3.org/2000/svg'
 							>
 								<circle
-									className='fill-current text-teal-911'
+									className='fill-current text-gray-100'
 									fill='#FBFBFB'
 									cx='32'
 									cy='32'
 									r='32'
 								/>
 								<path
-									className='fill-current text-gray-100'
+									className='fill-current text-gray-800'
 									d='M37.11 32.44l-1.69 4.646-8.458-3.078.676-1.859-4.773 1.42 2.744 4.156.677-1.858 9.396 3.42a.994.994 0 001.278-.587l2.03-5.576-1.88-.684zM27.037 30.878l1.691-4.646 8.457 3.078-.676 1.858 4.773-1.42-2.744-4.155-.676 1.858-9.397-3.42a.994.994 0 00-1.278.587l-2.03 5.576 1.88.684z'
 								/>
 							</svg>
