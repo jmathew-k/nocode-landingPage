@@ -10,10 +10,11 @@ import './css/style.scss';
 import AOS from 'aos';
 import { focusHandling } from 'cruip-js-toolkit';
 
-import Home from './pages/Home';
-// import Login from './pages/Login';
+import Home from './pages/Home'
 import Demo from './pages/Demo';
 import ResetPassword from './pages/ResetPassword';
+
+// import Login from './pages/Login';
 
 function App() {
 
