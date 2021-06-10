@@ -1,7 +1,7 @@
-import React from 'react';
+import React from 'react'
 
 function FeaturesBlocks() {
-  return (
+	return (
 		<section className='relative'>
 			{/* Section background (needs .relative class on parent and next sibling elements) */}
 			<div
@@ -279,4 +279,4 @@ function FeaturesBlocks() {
 	)
 }
 
-export default FeaturesBlocks;
+export default FeaturesBlocks

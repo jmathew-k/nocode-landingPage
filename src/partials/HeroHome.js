@@ -1,11 +1,7 @@
-import React from 'react';
-
+import React from 'react'
 
 function HeroHome() {
-
-
-
-  return (
+	return (
 		<section className='relative'>
 			<div className='max-w-6xl mx-auto px-4 sm:px-6'>
 				{/* Hero content */}
@@ -59,5 +55,4 @@ function HeroHome() {
 	)
 }
 
-export default HeroHome;
-
+export default HeroHome

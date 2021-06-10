@@ -1,10 +1,8 @@
-import React from 'react';
-
-
-import Header from '../partials/Header';
+import React from 'react'
+import Header from '../partials/Header'
 
 function Demo() {
-  return (
+	return (
 		<div className='flex flex-col min-h-screen overflow-hidden'>
 			{/*  Site header */}
 			<Header />
@@ -149,4 +147,4 @@ function Demo() {
 	)
 }
 
-export default Demo;
+export default Demo

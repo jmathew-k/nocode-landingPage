@@ -1,9 +1,4 @@
-
-
-
-
 // import React from 'react';
-
 
 // import Header from '../partials/Header';
 
@@ -87,7 +82,7 @@
 //                     </div>
 //                   </div>
 //                   */}
-//                 </form> 
+//                 </form>
 //                 {/* <div className="text-gray-600 text-center mt-6">
 //                   Don’t you have an account? <Link to="/signup" className="text-blue-600 hover:underline transition duration-150 ease-in-out">Sign up</Link>
 //                 </div> */}

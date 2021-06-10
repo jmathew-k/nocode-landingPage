@@ -1,10 +1,7 @@
-
-
-
-import React from 'react';
+import React from 'react'
 
 function FeaturesWorld() {
-  return (
+	return (
 		<section>
 			<div className='max-w-6xl mx-auto px-4 sm:px-6'>
 				<div className='py-12 md:py-20'>
@@ -306,4 +303,4 @@ function FeaturesWorld() {
 	)
 }
 
-export default FeaturesWorld;
+export default FeaturesWorld
