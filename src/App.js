@@ -8,7 +8,7 @@ import { focusHandling } from 'cruip-js-toolkit'
 
 import Home from './pages/Home'
 import Demo from './pages/Demo'
-// import ResetPassword from './pages/ResetPassword';
+import ResetPassword from './pages/ResetPassword';
 // import Login from './pages/Login';
 
 function App() {
@@ -42,9 +42,9 @@ function App() {
 				<Route path='/Demo'>
 					<Demo />
 				</Route>
-				{/* <Route path="/reset-password">
+				<Route path="/reset-password">
           <ResetPassword />
-        </Route>  */}
+        </Route> 
 			</Switch>
 		</>
 	)
