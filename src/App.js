@@ -33,19 +33,19 @@ function App() {
 	return (
 		<>
 			<Switch>
-				<Route exact path='/'>
+				<Route exact path="/">
 					<Home />
 				</Route>
 				{/* <Route path="/Login">
-          <Login />
-        </Route> */}
-				<Route path='/Demo'>
+        			        <Login />
+                                 </Route> */}
+				<Route path="/Demo">
 					<Demo />
 				</Route>
 				<Route path="/reset-password">
-          <ResetPassword />
-        </Route> 
-			</Switch>
+         			       <ResetPassword />
+                                </Route> 
+		      </Switch>
 		</>
 	)
 }
