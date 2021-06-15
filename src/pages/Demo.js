@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from '../partials/Header'
+import DemoHeader from '../partials/DemoHeader'
 
 function Demo() {
 	return (
 		<div className='flex flex-col min-h-screen overflow-hidden'>
 			{/*  Site header */}
-			<Header />
+			<DemoHeader />
 
 			{/*  Page content */}
 			<main className='flex-grow'>
@@ -91,7 +91,7 @@ function Demo() {
 											className='block text-gray-800 text-sm font-medium mb-1'
 											htmlFor='subject'
 										>
-											Job Title{' '}
+											Job Title <span className='text-red-600'>*</span>
 										</label>
 										<input
 											id='subject'

@@ -42,20 +42,11 @@ function Header() {
 					<nav className='flex flex-grow'>
 						<ul className='flex flex-grow justify-end flex-wrap items-center'>
 							<li>
-								<a
-									href='http://www.app.tesseractiq.com'
-									className=' hidden md:block text-sm text-gray-600 hover:text-gray-900 px-8 py-3 flex items-center transition duration-150 ease-in-out'
-								>
-									Login
-								</a>
-							</li>
-							<li>
 								<Link
-									to='/demo'
-									button
-									class='px-3 py-2 text-sm rounded text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3s'
+									to='/'
+									className='text-sm text-gray-600 hover:text-gray-900 px-8 py-3 flex items-center transition duration-150 ease-in-out'
 								>
-									<span>Book a Demo</span>
+									Home
 								</Link>
 							</li>
 						</ul>
