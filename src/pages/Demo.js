@@ -23,7 +23,9 @@ function Demo() {
 								data-netlify='true'
 								name='contact'
 								className='max-w-xl mx-auto'
+								onSubmit='submit'
 							>
+								<input type='hidden' name='form-name value' value='contact' />
 								<div className='flex flex-wrap -mx-3 mb-4'>
 									<div className='w-full md:w-1/2 px-3 mb-4 md:mb-0'>
 										<label
@@ -125,8 +127,10 @@ function Demo() {
 								</div>
 								<div className='flex flex-wrap -mx-3 mt-4'>
 									<div className='w-full px-3'>
-										<button type="submit"
-										className='btn text-white bg-teal-911 hover:bg-teal-400 w-full'>
+										<button
+											type='submit'
+											className='btn text-white bg-teal-911 hover:bg-teal-400 w-full'
+										>
 											Book a Demo
 										</button>
 									</div>
