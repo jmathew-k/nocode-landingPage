@@ -21,7 +21,6 @@ function Demo() {
 							<form
 								method='POST'
 								data-netlify='true'
-								action='/home'
 								className='max-w-xl mx-auto'
 							>
 								<div className='flex flex-wrap -mx-3 mb-4'>
