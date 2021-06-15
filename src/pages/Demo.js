@@ -25,7 +25,7 @@ function Demo() {
 								className='max-w-xl mx-auto'
 								onSubmit='submit'
 							>
-								<input type='hidden' name='form-name value' value='contact' />
+								<input type='hidden' name='form-name' value='contact' />
 								<div className='flex flex-wrap -mx-3 mb-4'>
 									<div className='w-full md:w-1/2 px-3 mb-4 md:mb-0'>
 										<label
