@@ -21,6 +21,7 @@ function Demo() {
 							<form
 								method='POST'
 								data-netlify='true'
+								name='contact'
 								className='max-w-xl mx-auto'
 							>
 								<div className='flex flex-wrap -mx-3 mb-4'>
@@ -124,7 +125,8 @@ function Demo() {
 								</div>
 								<div className='flex flex-wrap -mx-3 mt-4'>
 									<div className='w-full px-3'>
-										<button className='btn text-white bg-teal-911 hover:bg-teal-400 w-full'>
+										<button type="submit"
+										className='btn text-white bg-teal-911 hover:bg-teal-400 w-full'>
 											Book a Demo
 										</button>
 									</div>

@@ -9,8 +9,8 @@ function FeaturesWorld() {
 					<div className='max-w-3xl mx-auto text-center pb-12 md:pb-16'>
 						<h1 className='h4 mb-4'>Planet Scale</h1>
 						<p className='text-base text-gray-600'>
-							Deploy and share apps developed between teams, and discover
-							ready-made apps to common problems.
+							Deploy apps to instantly go live on our global edge network,
+							putting your content as close as possible to your customers.
 						</p>
 					</div>
 
