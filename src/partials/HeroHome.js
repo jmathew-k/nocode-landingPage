@@ -1,4 +1,6 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+
 
 
 function HeroHome() {
@@ -33,12 +35,12 @@ function HeroHome() {
 								data-aos-delay='300'
 							>
 								<div>
-									<a
+									<Link
+										to='/demo'
 										className='btn text-white bg-teal-911 hover:bg-teal-400 w-full mb-4 sm:w-auto sm:mb-0'
-										href='/demo'
 									>
 										Book a Demo
-									</a>
+									</Link>
 								</div>
 							</div>
 							<div className='w-full'>
