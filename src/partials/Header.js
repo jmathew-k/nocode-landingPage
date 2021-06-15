@@ -44,7 +44,7 @@ function Header() {
 							<li>
 								<a
 									href='http://www.app.tesseractiq.com'
-									className=' hidden md:block text-sm text-gray-600 hover:text-gray-900 px-8 py-3 flex items-center transition duration-150 ease-in-out'
+									className=' hidden md:block text-sm text-gray-600 hover:text-gray-900 px-4 py-3 flex items-center transition duration-150 ease-in-out'
 								>
 									Login
 								</a>

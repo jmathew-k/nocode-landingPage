@@ -18,7 +18,12 @@ function Demo() {
 							</div>
 
 							{/* Contact form */}
-							<form className='max-w-xl mx-auto'>
+							<form
+								method='POST'
+								data-netlify='true'
+								action='/home'
+								className='max-w-xl mx-auto'
+							>
 								<div className='flex flex-wrap -mx-3 mb-4'>
 									<div className='w-full md:w-1/2 px-3 mb-4 md:mb-0'>
 										<label
