@@ -43,7 +43,7 @@ function Header() {
 						<ul className='flex flex-grow justify-end flex-wrap items-center'>
 							<li>
 								<a
-									href='http://www.app.tesseractiq.com'
+									href='http://www.tesseractiq.app'
 									className=' hidden md:block text-sm text-gray-600 hover:text-gray-900 px-4 py-3 flex items-center transition duration-150 ease-in-out'
 								>
 									Login
