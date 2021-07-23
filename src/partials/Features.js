@@ -33,8 +33,8 @@ function Features() {
 					<div className='max-w-3xl mx-auto text-center pb-12 md:pb-16'>
 						<h1 className='h3 mb-4'>Tesseract no-code app platform</h1>
 						<p className='text-lg text-gray-600'>
-							Easily build digital solutions to automate complex business
-							processes, without coding
+							Easily build digital solutions to solve complex business
+							problems, without coding
 						</p>
 					</div>
 
