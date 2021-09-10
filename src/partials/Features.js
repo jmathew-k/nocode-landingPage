@@ -133,7 +133,7 @@ function Features() {
 								>
 									<div>
 										<div className='font-bold leading-snug tracking-tight mb-1 text-base'>
-											One click application deployment
+											AI Functional Blocks
 										</div>
 										<div className='text-gray-600 text-sm'>
 											Deploy and share applications between teams, and discover
