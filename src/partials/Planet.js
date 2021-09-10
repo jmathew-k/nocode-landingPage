@@ -7,7 +7,7 @@ function FeaturesWorld() {
 				<div className='py-12 md:py-20'>
 					{/* Section header */}
 					<div className='max-w-3xl mx-auto text-center pb-12 md:pb-16'>
-						<h1 className='h4 mb-4'>Planet Scale</h1>
+						<h1 className='h4 mb-4'>One click Application Deployment</h1>
 						<p className='text-base text-gray-600'>
 							Deploy apps to instantly go live on our global edge network,
 							putting your content as close as possible to your customers.
