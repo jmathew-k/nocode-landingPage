@@ -17,7 +17,7 @@ function HeroHome() {
 						>
 							Lego Blocks to build {' '}
 							<span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>
-								 AI Apps
+								 AI Applications
 							</span>
 						</h1>
 						<div className='max-w-3xl mx-auto'>
@@ -26,7 +26,7 @@ function HeroHome() {
 								data-aos='zoom-y-out'
 								data-aos-delay='150'
 							>
-								Build powerful AI enabled applicationss with your own business logic in a
+								Build powerful AI enabled applications with your own business logic in a
 								few clicks
 							</p>
 							<div
