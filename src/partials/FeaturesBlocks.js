@@ -18,7 +18,7 @@ function FeaturesBlocks() {
 						<p className='text-base text-gray-600'>
 							Turn any idea into an application. Collect information, process
 							through your business reasoning and define deliverables. From idea
-							to prototype in minutes, not months.
+							to prototype in minutes, not months
 						</p>
 					</div>
 
@@ -65,7 +65,7 @@ function FeaturesBlocks() {
 							</h4>
 							<p className='text-gray-600 text-center text-sm'>
 								Build without programming using the intuitive, visual
-								“drag-and-drop” editor.
+								“drag-and-drop” editor
 							</p>
 						</div>
 
@@ -103,11 +103,10 @@ function FeaturesBlocks() {
 								</g>
 							</svg>
 							<h4 className='text-xl font-bold leading-snug tracking-tight mb-1'>
-								Enterprise ready
+								AI Toolbox
 							</h4>
 							<p className='text-gray-600 text-center text-sm'>
-								ISO certified, GDPR compliant, bank grade security and
-								role-based access.
+								Extensive natural language processing and computer vision capabilities
 							</p>
 						</div>
 
@@ -142,7 +141,7 @@ function FeaturesBlocks() {
 							</h4>
 							<p className='text-gray-600 text-center text-sm'>
 								Track usage and access powerful insights to make data-driven
-								decisions.
+								decisions
 							</p>
 						</div>
 
@@ -190,7 +189,7 @@ function FeaturesBlocks() {
 							</h4>
 							<p className='text-gray-600 text-center text-sm'>
 								Full interoperability with all industry apps and databases with
-								out-of-the-box APIs.
+								out-of-the-box APIs
 							</p>
 						</div>
 
@@ -225,7 +224,7 @@ function FeaturesBlocks() {
 							</h4>
 							<p className='text-gray-600 text-center text-sm'>
 								Apply custom business logic, generate actions and leverage
-								integrations.
+								integrations
 							</p>
 						</div>
 
@@ -269,7 +268,7 @@ function FeaturesBlocks() {
 							</h4>
 							<p className='text-gray-600 text-center text-sm'>
 								Full doc assembly capabilities, combined with automated
-								decisioning.
+								decisioning
 							</p>
 						</div>
 					</div>
