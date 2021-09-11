@@ -71,7 +71,7 @@ function Features() {
 											Powerful decision engine
 										</div>
 										<div className='text-gray-600 text-sm'>
-											Powerful business rule engine that can implement your
+											Adaptive business rule engine that can implement your
 											domain specific expert knowledge
 										</div>
 									</div>
@@ -102,7 +102,7 @@ function Features() {
 											AI functional blocks
 										</div>
 										<div className='text-gray-600 text-sm'>
-											Powerful inbuilt functions for natural language processing and 
+											Configurable functional blocks for natural language processing and 
 											computer vision capabilities
 										</div>
 									</div>
