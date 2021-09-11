@@ -99,11 +99,11 @@ function Features() {
 								>
 									<div>
 										<div className='font-bold text-base leading-snug tracking-tight mb-1'>
-											Drag and drop interface designer
+											AI functional blocks
 										</div>
 										<div className='text-gray-600 text-sm'>
-											Create customised user interfaces like dashboards, forms,
-											chatbots etc. to interact with users
+											Powerful inbuilt functions for natural language processing and 
+											computer vision capabilities
 										</div>
 									</div>
 									<div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
@@ -133,11 +133,11 @@ function Features() {
 								>
 									<div>
 										<div className='font-bold leading-snug tracking-tight mb-1 text-base'>
-											AI Functional Blocks
+											Drag and drop interface designer
 										</div>
 										<div className='text-gray-600 text-sm'>
-											Deploy and share applications between teams, and discover
-											ready-made apps to common problems
+											Create customised user interfaces like dashboards, forms,
+											chatbots etc. to interact with users
 										</div>
 									</div>
 									<div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
