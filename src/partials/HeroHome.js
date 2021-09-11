@@ -12,7 +12,7 @@ function HeroHome() {
 					{/* Section header */}
 					<div className='text-center pb-12 md:pb-2'>
 						<h1
-							className='text-5xl md:text-5xl font-extrabold leading-tighter tracking-tighter mb-4'
+							className='text-4xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4'
 							data-aos='zoom-y-out'
 						>
 							Lego Blocks to build {' '}
