@@ -39,7 +39,7 @@ function HeroHome() {
 										to='/demo'
 										className='btn text-white bg-teal-911 hover:bg-teal-400 w-full mb-4 sm:w-auto sm:mb-0'
 									>
-										GET EARLY ACCESS
+										Get Early Access
 									</Link>
 								</div>
 							</div>
