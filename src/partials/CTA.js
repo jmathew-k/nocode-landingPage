@@ -17,7 +17,7 @@ function CTA() {
 					className='btn text-white bg-gray-900 hover:bg-gray-800 mb-6 w-full sm:w-auto sm:mb-0'
 					href='/demo'
 				>
-					Book a Demo
+					Get early access
 				</a>
 			</div>
 		</section>
