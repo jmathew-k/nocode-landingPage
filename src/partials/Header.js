@@ -55,7 +55,7 @@ function Header() {
 									button
 									class='px-3 py-2 text-sm rounded text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3s'
 								>
-									<span>Book a Demo</span>
+									<span>GET EARLY ACCESS</span>
 								</Link>
 							</li>
 						</ul>
