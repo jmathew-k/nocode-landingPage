@@ -10,7 +10,7 @@ function FeaturesWorld() {
 						<h1 className='h4 mb-4'>One Click Application Deployment</h1>
 						<p className='text-base text-gray-600'>
 							Deploy apps to instantly go live on our global edge network,
-							putting your content as close as possible to your customers.
+							putting your content as close as possible to your users.
 						</p>
 					</div>
 
