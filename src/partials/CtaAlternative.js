@@ -25,7 +25,7 @@ function CtaAlternative() {
 									to='/demo'
 									className='btn text-black text-sm bg-white hover:bg-gray-100'
 								>
-									Get early access
+									GET EARLY ACCESS
 								</Link>
 							</div>
 						</div>
