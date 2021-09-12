@@ -31,9 +31,9 @@ function Features() {
 				<div className='pt-12 md:pt-20'>
 					{/* Section header */}
 					<div className='max-w-3xl mx-auto text-center pb-12 md:pb-16'>
-						<h1 className='h3 mb-4'>Tesseract no-code ML app platform</h1>
+						<h1 className='h3 mb-4'>Tesseract no-code enterprise app platform</h1>
 						<p className='text-lg text-gray-600'>
-							Easily build AI powered digital solutions to solve complex business
+							Easily build powerful digital solutions to solve complex business
 							problems, without coding
 						</p>
 					</div>
