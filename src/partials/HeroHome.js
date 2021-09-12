@@ -26,7 +26,7 @@ function HeroHome() {
 								data-aos='zoom-y-out'
 								data-aos-delay='150'
 							>
-								Build powerful AI enabled applications with your own business logic in a
+								Build powerful applications with your own business logic in a
 								few clicks
 							</p>
 							<div
