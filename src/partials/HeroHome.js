@@ -17,7 +17,7 @@ function HeroHome() {
 						>
 							Lego Blocks to build {' '}
 							<span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>
-							Enterprise Applications
+							Applications
 							</span>
 						</h1>
 						<div className='max-w-3xl mx-auto'>
