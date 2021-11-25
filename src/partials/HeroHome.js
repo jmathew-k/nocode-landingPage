@@ -28,20 +28,20 @@ function HeroHome() {
 							>
 								Tesseract creates software that advances a more open, safe, and collaborative <b>Web3</b>
 							</p>
-// 							<div
-// 								className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
-// 								data-aos='zoom-y-out'
-// 								data-aos-delay='300'
-// 							>
-// 								<div>
-// 									<Link
-// 										to='/demo'
-// 										className='btn text-white bg-teal-911 hover:bg-teal-400 w-full mb-4 sm:w-auto sm:mb-0'
-// 									>
-// 										Learn More
-// 									</Link>
-// 								</div>
-// 							</div>
+							<div
+								className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
+								data-aos='zoom-y-out'
+								data-aos-delay='300'
+							>
+								<div>
+									<Link
+										to='/demo'
+										className='btn text-white bg-teal-911 hover:bg-teal-400 w-full mb-4 sm:w-auto sm:mb-0'
+									>
+										Learn More
+									</Link>
+								</div>
+							</div>
 							<div className='w-full'>
 								<img
 									className=''
