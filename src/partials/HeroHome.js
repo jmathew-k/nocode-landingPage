@@ -15,9 +15,9 @@ function HeroHome() {
 							className='text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-8'
 							data-aos='zoom-y-out'
 						>
-							Infrastructure for the {' '}
+							Lego Blocks to Build {' '}
 							<span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>
-							Decentralized Web
+							Applications
 							</span>
 						</h1>
 						<div className='md:pb-10 max-w-3xl mx-auto'>
@@ -26,7 +26,7 @@ function HeroHome() {
 								data-aos='zoom-y-out'
 								data-aos-delay='150'
 							>
-								Tesseract creates software that advances a more open, safe, and collaborative <b>Web3</b>
+// 								Tesseract creates software that advances a more open, safe, and collaborative <b>Web3</b>
 							</p>
 							<div
 								className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
