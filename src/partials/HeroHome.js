@@ -28,11 +28,11 @@ function HeroHome() {
 							>
 								Tesseract creates software that advances a more open, safe, and collaborative <b>Web3<b>
 							</p>
-							<div
-								className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
-								data-aos='zoom-y-out'
-								data-aos-delay='300'
-							>
+// 							<div
+// 								className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
+// 								data-aos='zoom-y-out'
+// 								data-aos-delay='300'
+// 							>
 // 								<div>
 // 									<Link
 // 										to='/demo'
@@ -41,7 +41,7 @@ function HeroHome() {
 // 										Learn More
 // 									</Link>
 // 								</div>
-							</div>
+// 							</div>
 							<div className='w-full'>
 								<img
 									className=''
