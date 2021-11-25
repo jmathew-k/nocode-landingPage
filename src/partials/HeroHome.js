@@ -20,7 +20,7 @@ function HeroHome() {
 							Decentralized Web
 							</span>
 						</h1>
-						<div className='max-w-3xl mx-auto'>
+						<div className='md:pb-10 max-w-3xl mx-auto'>
 							<p
 								className='text-xl text-gray-600 mb-8'
 								data-aos='zoom-y-out'
