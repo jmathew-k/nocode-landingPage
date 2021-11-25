@@ -26,7 +26,7 @@ function HeroHome() {
 								data-aos='zoom-y-out'
 								data-aos-delay='150'
 							>
-								Tesseract creates software that advances a more open, safe, and collaborative web3.
+								Tesseract creates software that advances a more open, safe, and collaborative <b>Web3<b>
 							</p>
 							<div
 								className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
