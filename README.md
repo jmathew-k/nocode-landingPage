@@ -1,6 +1,6 @@
 
 
-## Usage
+## Usage | nvm use lts/fermium
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
